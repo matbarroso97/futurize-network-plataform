@@ -1,9 +1,10 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { MoonIcon, SunIcon } from '@heroicons/react/24/solid'
 import profilesJSON from './data/professionals.json'
 import FiltersBar from './components/FiltersBar'
 import ProfileCard from './components/ProfileCard'
 import ProfileModal from './components/ProfileModal'
+import MessagesPanel from './components/MessagesPanel'
 import { useFilters } from './hooks/useFilters'
 
 const storedRecommendationsKey = 'futurize:recommendations'
@@ -38,6 +39,14 @@ function App() {
 
   const [selectedProfile, setSelectedProfile] = useState(null)
   const [messages, setMessages] = useState([])
+
+  const profilesById = useMemo(() => {
+    const map = {}
+    profilesJSON.forEach((profile) => {
+      map[profile.id] = profile
+    })
+    return map
+  }, [])
 
   const {
     filters,
@@ -179,6 +188,19 @@ function App() {
             onSendMessage={handleSendMessage}
           />
         ) : null}
+
+        <section>
+          <h2 className="text-lg font-semibold text-slate-800 dark:text-slate-100">
+            Interações registradas
+          </h2>
+          <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">
+            Todo envio de mensagem é armazenado localmente para acompanhar o
+            histórico simulado sem sair da página.
+          </p>
+          <div className="mt-4">
+            <MessagesPanel messages={messages} profilesById={profilesById} />
+          </div>
+        </section>
       </main>
     </div>
   )
