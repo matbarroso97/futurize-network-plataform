@@ -96,7 +96,13 @@ function App() {
     <div className="min-h-screen bg-gradient-to-b from-slate-100 via-white to-slate-100 text-slate-900 transition dark:from-slate-950 dark:via-slate-900 dark:to-slate-950 dark:text-slate-100">
       <header className="border-b border-slate-200 bg-white/80 backdrop-blur dark:border-slate-800 dark:bg-slate-900/80">
         <div className="mx-auto flex max-w-6xl flex-col gap-6 px-4 py-8 md:flex-row md:items-center md:justify-between">
-          <div>
+          <div className="flex items-center gap-5">
+            <img
+              src="/futurizelogo.png"
+              alt="Futurize Network"
+              className="h-16 w-auto object-contain drop-shadow-sm md:h-20"
+            />
+            <div>
             <p className="text-xs font-semibold uppercase tracking-[0.3em] text-emerald-600 dark:text-emerald-400">
               Futurize Network
             </p>
@@ -108,6 +114,7 @@ function App() {
               visionários. Use filtros inteligentes para encontrar especialistas
               por área, localização ou tecnologia-chave.
             </p>
+            </div>
           </div>
 
           <div className="flex items-center gap-3">
