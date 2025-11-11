@@ -5,6 +5,7 @@ import FiltersBar from './components/FiltersBar'
 import ProfileCard from './components/ProfileCard'
 import ProfileModal from './components/ProfileModal'
 import MessagesPanel from './components/MessagesPanel'
+import TopRecommendations from './components/TopRecommendations'
 import { useFilters } from './hooks/useFilters'
 
 const storedRecommendationsKey = 'futurize:recommendations'
@@ -155,6 +156,24 @@ function App() {
             Voltar ao topo
           </button>
         </section>
+
+        {Object.keys(recommendations).length > 0 ? (
+          <section className="space-y-4">
+            <div>
+              <h2 className="text-lg font-semibold text-slate-800 dark:text-slate-100">
+                Destaques mais recomendados
+              </h2>
+              <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">
+                Acompanhe quem vem recebendo mais votos de confiança da
+                comunidade.
+              </p>
+            </div>
+            <TopRecommendations
+              profiles={profilesById}
+              recommendations={recommendations}
+            />
+          </section>
+        ) : null}
 
         {filteredProfiles.length > 0 ? (
           <div className="grid gap-6 sm:grid-cols-2 xl:grid-cols-3">
