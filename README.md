@@ -15,7 +15,7 @@ Rede profissional colaborativa que conecta talentos do futuro do trabalho. O pro
 
 ```bash
 git clone https://github.com/matbarroso97/futurize-network-plataform.git
-cd futurize-network-plataform/frontend
+cd futurize-network-plataform
 npm install
 npm run dev
 ```
