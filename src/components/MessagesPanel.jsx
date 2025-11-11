@@ -1,3 +1,5 @@
+import React from 'react'
+
 function MessagesPanel({ messages, profilesById }) {
   if (messages.length === 0) {
     return (

@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import React, { useEffect, useMemo, useState } from 'react'
 import { MoonIcon, SunIcon } from '@heroicons/react/24/solid'
 import profilesJSON from './data/professionals.json'
 import FiltersBar from './components/FiltersBar'

@@ -1,3 +1,5 @@
+import React from 'react'
+
 function FiltersBar({ filters, onFilterChange, areas, cities, technologies }) {
   return (
     <div className="grid gap-3 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-700 dark:bg-slate-800 md:grid-cols-4">

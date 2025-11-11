@@ -1,3 +1,5 @@
+import React from 'react'
+
 function TopRecommendations({ profiles, recommendations }) {
   const ranked = Object.entries(recommendations)
     .sort(([, a], [, b]) => b - a)

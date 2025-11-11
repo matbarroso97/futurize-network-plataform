@@ -1,3 +1,5 @@
+import React from 'react'
+
 function ProfileCard({ profile, onSelect, recommendations = 0 }) {
   return (
     <article
