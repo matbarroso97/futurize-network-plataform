@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react'
+import React, { useEffect, useMemo, useRef, useState } from 'react'
 import { MoonIcon, SunIcon } from '@heroicons/react/24/solid'
 import profilesJSON from './data/professionals.json'
 import FiltersBar from './components/FiltersBar'
@@ -40,6 +40,8 @@ function App() {
 
   const [selectedProfile, setSelectedProfile] = useState(null)
   const [messages, setMessages] = useState([])
+  const [messageNoticeVisible, setMessageNoticeVisible] = useState(false)
+  const interactionsSectionRef = useRef(null)
 
   const profilesById = useMemo(() => {
     const map = {}
@@ -88,6 +90,7 @@ function App() {
         sentAt: new Date().toISOString(),
       },
     ])
+    setMessageNoticeVisible(true)
   }
 
   const totalProfiles = filteredProfiles.length
@@ -143,6 +146,21 @@ function App() {
       </header>
 
       <main className="mx-auto flex max-w-6xl flex-col gap-8 px-4 py-10">
+        {messageNoticeVisible ? (
+          <div className="fixed inset-0 z-[70] flex items-center justify-center bg-slate-900/40 backdrop-blur-sm">
+            <div className="flex max-w-md flex-col items-center gap-4 rounded-2xl border border-emerald-200 bg-white px-6 py-5 text-center text-sm font-medium text-slate-700 shadow-2xl transition dark:border-emerald-700 dark:bg-slate-900 dark:text-slate-200">
+              <p>Mensagem enviada. Veja as interações no final da página principal.</p>
+              <button
+                type="button"
+                onClick={() => setMessageNoticeVisible(false)}
+                className="rounded-full border border-emerald-200 bg-emerald-500 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-white transition hover:bg-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-300 dark:border-emerald-600 dark:bg-emerald-500 dark:hover:bg-emerald-400"
+              >
+                Ok
+              </button>
+            </div>
+          </div>
+        ) : null}
+
         <FiltersBar
           filters={filters}
           onFilterChange={setFilters}
@@ -151,17 +169,23 @@ function App() {
           technologies={uniqueTechnologies}
         />
 
-        <section className="flex items-center justify-between">
+        <section className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-sm text-slate-500 dark:text-slate-400">
             {totalProfiles} profissionais encontrados
           </p>
-          <button
-            type="button"
-            onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-            className="rounded-full border border-slate-200 bg-white px-3 py-1 text-xs font-semibold uppercase tracking-wide text-slate-500 transition hover:bg-slate-100 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-700"
-          >
-            Voltar ao topo
-          </button>
+          <div className="flex flex-wrap items-center gap-2">
+            <button
+              type="button"
+              onClick={() =>
+                interactionsSectionRef.current?.scrollIntoView({
+                  behavior: 'smooth',
+                })
+              }
+              className="rounded-full border border-emerald-200 bg-white px-3 py-1 text-xs font-semibold uppercase tracking-wide text-emerald-600 transition hover:bg-emerald-50 dark:border-emerald-700 dark:bg-slate-800 dark:text-emerald-300 dark:hover:bg-slate-700"
+            >
+              Ver mensagens simuladas
+            </button>
+          </div>
         </section>
 
         {Object.keys(recommendations).length > 0 ? (
@@ -215,7 +239,7 @@ function App() {
           />
         ) : null}
 
-        <section>
+        <section ref={interactionsSectionRef}>
           <h2 className="text-lg font-semibold text-slate-800 dark:text-slate-100">
             Interações registradas
           </h2>
@@ -228,6 +252,16 @@ function App() {
           </div>
         </section>
       </main>
+
+      {selectedProfile ? null : (
+        <button
+          type="button"
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          className="fixed bottom-6 right-6 z-50 rounded-full border border-emerald-200 bg-emerald-500 px-4 py-2 text-xs font-semibold uppercase tracking-wide text-white shadow-lg transition hover:bg-emerald-400 focus:outline-none focus:ring-2 focus:ring-emerald-300 dark:border-emerald-700 dark:bg-emerald-600 dark:hover:bg-emerald-500"
+        >
+          Voltar ao topo
+        </button>
+      )}
     </div>
   )
 }

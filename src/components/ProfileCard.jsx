@@ -4,7 +4,7 @@ function ProfileCard({ profile, onSelect, recommendations = 0 }) {
   return (
     <article
       onClick={() => onSelect(profile)}
-      className="group flex cursor-pointer flex-col gap-4 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:border-slate-300 hover:shadow-lg dark:border-slate-700 dark:bg-slate-800 dark:hover:border-slate-500"
+      className="group flex h-full cursor-pointer flex-col gap-4 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:border-slate-300 hover:shadow-lg dark:border-slate-700 dark:bg-slate-800 dark:hover:border-slate-500"
     >
       <div className="flex items-center gap-4">
         <img
@@ -46,7 +46,7 @@ function ProfileCard({ profile, onSelect, recommendations = 0 }) {
         ) : null}
       </div>
 
-      <footer className="flex items-center justify-between text-xs text-slate-500 dark:text-slate-400">
+      <footer className="mt-auto flex items-center justify-between text-xs text-slate-500 dark:text-slate-400">
         <span>{profile.localizacao}</span>
         <span className="font-medium text-emerald-600 dark:text-emerald-400">
           {recommendations} recomendações

@@ -342,3 +342,4 @@ writeFileSync(outputPath, JSON.stringify(profiles, null, 2), 'utf-8')
 
 console.log(`Generated ${profiles.length} profiles in ${outputPath}`)
 
+
