@@ -1,0 +1,4381 @@
+[
+  {
+    "id": 1,
+    "nome": "Mateus Nogueira",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "cargo": "Desenvolvedor(a) Back-end",
+    "resumo": "Mateus é desenvolvedor(a) back-end com foco em soluções para saúde digital e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Campinas/SP",
+    "area": "Saúde Digital",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Spring Boot",
+      "FastAPI",
+      "Java"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Resiliência",
+      "Proatividade",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FinEdge",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2014-12",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de saúde digital, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "HealthConnect",
+        "cargo": "Scrum Master",
+        "inicio": "2013-06",
+        "fim": "2017-11",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Inteligência Artificial",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Conteúdo Interativo",
+        "link": "https://portfolio.futurize.dev/mateus-1-1",
+        "descricao": "Projeto focado em hub de conteúdo interativo, utilizando NoSQL, Spring Boot."
+      }
+    ],
+    "certificacoes": [
+      "Certified Ethical Hacker",
+      "Design Sprint Master",
+      "PMP"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Cidades Inteligentes",
+      "IA Ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Mariana Souza",
+    "foto": "https://i.pravatar.cc/150?img=2",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Mariana é analista de marketing digital com foco em soluções para saúde digital e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde Digital",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "FastAPI",
+      "Angular"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Negociação",
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignSphere",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2021-03",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de saúde digital, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "HealthConnect",
+        "cargo": "Cientista de Dados",
+        "inicio": "2012-06",
+        "fim": "2021-08",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Ciência de Dados",
+        "instituicao": "UFF",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/mariana-2-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando TypeScript, FastAPI."
+      },
+      {
+        "titulo": "Plataforma de Voluntariado Tech",
+        "link": "https://portfolio.futurize.dev/mariana-2-2",
+        "descricao": "Projeto focado em plataforma de voluntariado tech, utilizando TypeScript, FastAPI."
+      }
+    ],
+    "certificacoes": [
+      "Certified Ethical Hacker",
+      "OKR Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Saúde Digital",
+      "Economia Criativa"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Bruno Almeida",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "cargo": "Engenheiro(a) de Machine Learning",
+    "resumo": "Bruno é engenheiro(a) de machine learning com foco em soluções para educação e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Go",
+      "C#",
+      "FastAPI",
+      "Azure",
+      "Vue"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaLabs",
+        "cargo": "Engenheiro(a) de Machine Learning",
+        "inicio": "2017-11",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de educação, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2012-12",
+        "fim": "2019-11",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Faculdade Impacta",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/bruno-3-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando Go, C#."
+      },
+      {
+        "titulo": "Marketplace de Serviços Criativos",
+        "link": "https://portfolio.futurize.dev/bruno-3-2",
+        "descricao": "Projeto focado em marketplace de serviços criativos, utilizando Go, C#."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master Certified",
+      "Azure Administrator Associate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Fintech",
+      "Robótica",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Bruno Ibrahim",
+    "foto": "https://i.pravatar.cc/150?img=4",
+    "cargo": "Product Manager",
+    "resumo": "Bruno é product manager com foco em soluções para gestão de produtos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão de Produtos",
+    "habilidadesTecnicas": [
+      "Flutter",
+      "PostgreSQL",
+      "GCP",
+      "SQL Server",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Visão estratégica",
+      "Organização",
+      "Adaptabilidade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Product Manager",
+        "inicio": "2019-09",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de gestão de produtos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "SafeNet",
+        "cargo": "Analista de Segurança",
+        "inicio": "2010-08",
+        "fim": "2018-03",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Inteligência Artificial",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Ferramenta de OKR colaborativa",
+        "link": "https://portfolio.futurize.dev/bruno-4-1",
+        "descricao": "Projeto focado em ferramenta de okr colaborativa, utilizando Flutter, PostgreSQL."
+      },
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/bruno-4-2",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando Flutter, PostgreSQL."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Solutions Architect",
+      "Scrum Master Certified",
+      "OKR Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Impacto Social",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "João Teixeira",
+    "foto": "https://i.pravatar.cc/150?img=5",
+    "cargo": "Product Manager",
+    "resumo": "João é product manager com foco em soluções para recursos humanos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "FastAPI",
+      "NestJS",
+      "Laravel",
+      "MongoDB",
+      "React Native"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Pensamento crítico",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FinEdge",
+        "cargo": "Product Manager",
+        "inicio": "2014-08",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de recursos humanos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "TechNova",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2010-10",
+        "fim": "2019-01",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard de Analytics em Tempo Real",
+        "link": "https://portfolio.futurize.dev/joão-5-1",
+        "descricao": "Projeto focado em dashboard de analytics em tempo real, utilizando Node.js, FastAPI."
+      },
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/joão-5-2",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando Node.js, FastAPI."
+      }
+    ],
+    "certificacoes": [
+      "PMP"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "GovTech",
+      "Cidades Inteligentes",
+      "Robótica",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Olívia Uchoa",
+    "foto": "https://i.pravatar.cc/150?img=6",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "Olívia é arquiteto(a) de soluções com foco em soluções para recursos humanos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "C#",
+      "MongoDB",
+      "Python",
+      "React",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Visão estratégica",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "EduPrime",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2017-11",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de recursos humanos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Especialista em Cloud",
+        "inicio": "2011-01",
+        "fim": "2019-07",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UFF",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard de Analytics em Tempo Real",
+        "link": "https://portfolio.futurize.dev/olívia-6-1",
+        "descricao": "Projeto focado em dashboard de analytics em tempo real, utilizando C#, MongoDB."
+      }
+    ],
+    "certificacoes": [
+      "Certified Kubernetes Administrator"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "GovTech",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Gabriela Hernandez",
+    "foto": "https://i.pravatar.cc/150?img=7",
+    "cargo": "UX/UI Designer",
+    "resumo": "Gabriela é ux/ui designer com foco em soluções para recursos humanos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "Laravel",
+      "React",
+      "Power BI",
+      "Azure",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Organização",
+      "Comunicação",
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignSphere",
+        "cargo": "UX/UI Designer",
+        "inicio": "2023-11",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de recursos humanos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "FinEdge",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2011-10",
+        "fim": "2020-09",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Segurança da Informação",
+        "instituicao": "USP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/gabriela-7-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando Laravel, React."
+      },
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/gabriela-7-2",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando Laravel, React."
+      }
+    ],
+    "certificacoes": [
+      "Certified Kubernetes Administrator",
+      "IELTS C1",
+      "OKR Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "GovTech",
+      "IA Ética",
+      "Metaverso",
+      "Economia Criativa"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Vivian Jacinto",
+    "foto": "https://i.pravatar.cc/150?img=8",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Vivian é desenvolvedor(a) front-end com foco em soluções para educação e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "Angular",
+      "Python",
+      "TypeScript",
+      "React Native"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "EduPrime",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2017-02",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de educação, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "SafeNet",
+        "cargo": "Cientista de Dados",
+        "inicio": "2011-03",
+        "fim": "2018-06",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFF",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Ferramenta de OKR colaborativa",
+        "link": "https://portfolio.futurize.dev/vivian-8-1",
+        "descricao": "Projeto focado em ferramenta de okr colaborativa, utilizando GraphQL, Angular."
+      }
+    ],
+    "certificacoes": [
+      "OKR Professional",
+      "PMP",
+      "Scrum Master Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades Inteligentes",
+      "GovTech",
+      "Economia Criativa",
+      "Fintech"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Renato Cardoso",
+    "foto": "https://i.pravatar.cc/150?img=9",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Renato é engenheiro(a) de software com foco em soluções para segurança e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Campinas/SP",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Figma",
+      "React Native"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Resiliência",
+      "Criatividade",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataPulse",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2016-10",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de segurança, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2011-07",
+        "fim": "2017-06",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Segurança da Informação",
+        "instituicao": "PUC-Rio",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/renato-9-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando JavaScript, Figma."
+      },
+      {
+        "titulo": "Ferramenta de OKR colaborativa",
+        "link": "https://portfolio.futurize.dev/renato-9-2",
+        "descricao": "Projeto focado em ferramenta de okr colaborativa, utilizando JavaScript, Figma."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Solutions Architect",
+      "Design Sprint Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Impacto Social"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Talita Dias",
+    "foto": "https://i.pravatar.cc/150?img=10",
+    "cargo": "Especialista em DevOps",
+    "resumo": "Talita é especialista em devops com foco em soluções para desenvolvimento e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "JavaScript",
+      "NoSQL",
+      "Power BI",
+      "Python",
+      "Angular"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Empatia",
+      "Organização",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SafeNet",
+        "cargo": "Especialista em DevOps",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de desenvolvimento, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2013-02",
+        "fim": "2019-02",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Ciência de Dados",
+        "instituicao": "UFF",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Solução Financeira Gamificada",
+        "link": "https://portfolio.futurize.dev/talita-10-1",
+        "descricao": "Projeto focado em solução financeira gamificada, utilizando Kubernetes, JavaScript."
+      }
+    ],
+    "certificacoes": [
+      "Certified Ethical Hacker",
+      "PMP",
+      "Azure Administrator Associate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades Inteligentes",
+      "Educação",
+      "Economia Criativa",
+      "Robótica"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Nicolas Freitas",
+    "foto": "https://i.pravatar.cc/150?img=11",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Nicolas é analista de marketing digital com foco em soluções para educação e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "AWS",
+      "Laravel",
+      "Tableau",
+      "Flutter",
+      "Adobe XD"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Proatividade",
+      "Empatia",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FinEdge",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2021-04",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de educação, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "HealthConnect",
+        "cargo": "Cientista de Dados",
+        "inicio": "2013-01",
+        "fim": "2018-08",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UFBA",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Conteúdo Interativo",
+        "link": "https://portfolio.futurize.dev/nicolas-11-1",
+        "descricao": "Projeto focado em hub de conteúdo interativo, utilizando Kubernetes, AWS."
+      },
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/nicolas-11-2",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando Kubernetes, AWS."
+      }
+    ],
+    "certificacoes": [
+      "Azure Administrator Associate",
+      "Design Sprint Master",
+      "Certified Ethical Hacker"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA Ética",
+      "Inclusão Digital"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Paulo Esteves",
+    "foto": "https://i.pravatar.cc/150?img=12",
+    "cargo": "Desenvolvedor(a) Back-end",
+    "resumo": "Paulo é desenvolvedor(a) back-end com foco em soluções para saúde digital e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Saúde Digital",
+    "habilidadesTecnicas": [
+      "Tableau",
+      "FastAPI",
+      "Java",
+      "Flutter",
+      "Laravel",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Criatividade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2014-11",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de saúde digital, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2011-05",
+        "fim": "2018-05",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Segurança da Informação",
+        "instituicao": "UFF",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Ferramenta de OKR colaborativa",
+        "link": "https://portfolio.futurize.dev/paulo-12-1",
+        "descricao": "Projeto focado em ferramenta de okr colaborativa, utilizando Tableau, FastAPI."
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud Professional Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Victor Jacinto",
+    "foto": "https://i.pravatar.cc/150?img=13",
+    "cargo": "Engenheiro(a) de Machine Learning",
+    "resumo": "Victor é engenheiro(a) de machine learning com foco em soluções para design e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "NoSQL",
+      "CI/CD",
+      "Kubernetes",
+      "C#",
+      "Angular"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaLabs",
+        "cargo": "Engenheiro(a) de Machine Learning",
+        "inicio": "2021-06",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de design, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "HealthConnect",
+        "cargo": "Especialista em DevOps",
+        "inicio": "2013-11",
+        "fim": "2019-09",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Ciência de Dados",
+        "instituicao": "FIAP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Solução Financeira Gamificada",
+        "link": "https://portfolio.futurize.dev/victor-13-1",
+        "descricao": "Projeto focado em solução financeira gamificada, utilizando TypeScript, NoSQL."
+      },
+      {
+        "titulo": "Plataforma de Voluntariado Tech",
+        "link": "https://portfolio.futurize.dev/victor-13-2",
+        "descricao": "Projeto focado em plataforma de voluntariado tech, utilizando TypeScript, NoSQL."
+      }
+    ],
+    "certificacoes": [
+      "Certified Kubernetes Administrator",
+      "TensorFlow Developer Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Impacto Social",
+      "Metaverso"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Vivian Vasconcelos",
+    "foto": "https://i.pravatar.cc/150?img=14",
+    "cargo": "Engenheiro(a) de Machine Learning",
+    "resumo": "Vivian é engenheiro(a) de machine learning com foco em soluções para finanças e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "C#",
+      "JavaScript",
+      "Rust",
+      "SQL Server"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Gestão de tempo",
+      "Visão estratégica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechNova",
+        "cargo": "Engenheiro(a) de Machine Learning",
+        "inicio": "2022-02",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de finanças, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "GreenBits",
+        "cargo": "UX/UI Designer",
+        "inicio": "2012-08",
+        "fim": "2019-07",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Produtos Digitais",
+        "instituicao": "Faculdade Impacta",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/vivian-14-1",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando MongoDB, C#."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master Certified",
+      "TensorFlow Developer Certificate",
+      "IELTS C1"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Victor Souza",
+    "foto": "https://i.pravatar.cc/150?img=15",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "Victor é arquiteto(a) de soluções com foco em soluções para saúde digital e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Campinas/SP",
+    "area": "Saúde Digital",
+    "habilidadesTecnicas": [
+      "Python",
+      "GraphQL",
+      "NestJS"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Organização",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataPulse",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2017-12",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de saúde digital, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "GreenBits",
+        "cargo": "Cientista de Dados",
+        "inicio": "2012-04",
+        "fim": "2019-07",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Inteligência Artificial",
+        "instituicao": "UFRGS",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/victor-15-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando Python, GraphQL."
+      },
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/victor-15-2",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando Python, GraphQL."
+      }
+    ],
+    "certificacoes": [
+      "Certified Kubernetes Administrator",
+      "OKR Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Metaverso",
+      "Robótica",
+      "IA Ética",
+      "Economia Criativa"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Olívia Dias",
+    "foto": "https://i.pravatar.cc/150?img=16",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "Olívia é arquiteto(a) de soluções com foco em soluções para dados e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "GCP",
+      "React Native",
+      "Laravel"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência",
+      "Liderança",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2015-03",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de dados, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "GreenBits",
+        "cargo": "Scrum Master",
+        "inicio": "2010-01",
+        "fim": "2018-01",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC-Rio",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/olívia-16-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando TypeScript, GCP."
+      },
+      {
+        "titulo": "Plataforma de Voluntariado Tech",
+        "link": "https://portfolio.futurize.dev/olívia-16-2",
+        "descricao": "Projeto focado em plataforma de voluntariado tech, utilizando TypeScript, GCP."
+      }
+    ],
+    "certificacoes": [
+      "Azure Administrator Associate",
+      "Scrum Master Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Computação Quântica",
+      "Educação"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Nicolas Vasconcelos",
+    "foto": "https://i.pravatar.cc/150?img=17",
+    "cargo": "Desenvolvedor(a) Back-end",
+    "resumo": "Nicolas é desenvolvedor(a) back-end com foco em soluções para desenvolvimento e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "React Native",
+      "PyTorch",
+      "Spring Boot"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Negociação",
+      "Organização",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2015-08",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de desenvolvimento, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "EduPrime",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2014-06",
+        "fim": "2019-07",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Produtos Digitais",
+        "instituicao": "UFSC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Solução Financeira Gamificada",
+        "link": "https://portfolio.futurize.dev/nicolas-17-1",
+        "descricao": "Projeto focado em solução financeira gamificada, utilizando NoSQL, React Native."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate",
+      "AWS Certified Solutions Architect"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Impacto Social",
+      "Computação Quântica",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Patrícia Teixeira",
+    "foto": "https://i.pravatar.cc/150?img=18",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Patrícia é engenheiro(a) de software com foco em soluções para saúde digital e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Campinas/SP",
+    "area": "Saúde Digital",
+    "habilidadesTecnicas": [
+      "SQL Server",
+      "Rust",
+      "FastAPI",
+      "Python"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento crítico",
+      "Organização",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FutureCorp",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2014-12",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de saúde digital, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "SafeNet",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2011-01",
+        "fim": "2018-08",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Faculdade Impacta",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Marketplace de Serviços Criativos",
+        "link": "https://portfolio.futurize.dev/patrícia-18-1",
+        "descricao": "Projeto focado em marketplace de serviços criativos, utilizando SQL Server, Rust."
+      },
+      {
+        "titulo": "Dashboard de Analytics em Tempo Real",
+        "link": "https://portfolio.futurize.dev/patrícia-18-2",
+        "descricao": "Projeto focado em dashboard de analytics em tempo real, utilizando SQL Server, Rust."
+      }
+    ],
+    "certificacoes": [
+      "PMP",
+      "Google Cloud Professional Data Engineer",
+      "Design Sprint Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Fintech",
+      "Metaverso"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Eduarda Ribeiro",
+    "foto": "https://i.pravatar.cc/150?img=19",
+    "cargo": "Engenheiro(a) de Machine Learning",
+    "resumo": "Eduarda é engenheiro(a) de machine learning com foco em soluções para segurança e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Brasília/DF",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Power BI",
+      "JavaScript",
+      "Django",
+      "PostgreSQL",
+      "Laravel"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechNova",
+        "cargo": "Engenheiro(a) de Machine Learning",
+        "inicio": "2023-12",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de segurança, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "GreenBits",
+        "cargo": "UX/UI Designer",
+        "inicio": "2010-05",
+        "fim": "2021-12",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC-Rio",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Marketplace de Serviços Criativos",
+        "link": "https://portfolio.futurize.dev/eduarda-19-1",
+        "descricao": "Projeto focado em marketplace de serviços criativos, utilizando SQL, Power BI."
+      }
+    ],
+    "certificacoes": [
+      "Azure Administrator Associate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Fintech",
+      "Computação Quântica",
+      "Robótica",
+      "Inclusão Digital"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Yasmin Freitas",
+    "foto": "https://i.pravatar.cc/150?img=20",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "Yasmin é arquiteto(a) de soluções com foco em soluções para segurança e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Goiânia/GO",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Docker",
+      "GCP",
+      "Tableau"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Liderança",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2022-11",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de segurança, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "DataPulse",
+        "cargo": "Cientista de Dados",
+        "inicio": "2013-10",
+        "fim": "2017-07",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UFSC",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Voluntariado Tech",
+        "link": "https://portfolio.futurize.dev/yasmin-20-1",
+        "descricao": "Projeto focado em plataforma de voluntariado tech, utilizando Docker, GCP."
+      }
+    ],
+    "certificacoes": [
+      "Certified Ethical Hacker",
+      "OKR Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Sustentabilidade",
+      "Inclusão Digital"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Felipe Dias",
+    "foto": "https://i.pravatar.cc/150?img=21",
+    "cargo": "Analista de Segurança",
+    "resumo": "Felipe é analista de segurança com foco em soluções para dados e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Brasília/DF",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Django",
+      "Power BI",
+      "NestJS",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Pensamento crítico",
+      "Visão estratégica",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Analista de Segurança",
+        "inicio": "2021-03",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de dados, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "InovaLabs",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2010-10",
+        "fim": "2019-05",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFBA",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/felipe-21-1",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando Django, Power BI."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Solutions Architect",
+      "Google Cloud Professional Data Engineer",
+      "OKR Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Educação",
+      "Robótica",
+      "GovTech"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Victor Zanetti",
+    "foto": "https://i.pravatar.cc/150?img=22",
+    "cargo": "Engenheiro(a) de Machine Learning",
+    "resumo": "Victor é engenheiro(a) de machine learning com foco em soluções para marketing e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Vue",
+      "Next.js",
+      "TensorFlow",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Criatividade",
+      "Trabalho em equipe",
+      "Liderança",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignSphere",
+        "cargo": "Engenheiro(a) de Machine Learning",
+        "inicio": "2021-07",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de marketing, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "GreenBits",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2011-10",
+        "fim": "2018-01",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Produtos Digitais",
+        "instituicao": "UFBA",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/victor-22-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando TypeScript, Vue."
+      },
+      {
+        "titulo": "Marketplace de Serviços Criativos",
+        "link": "https://portfolio.futurize.dev/victor-22-2",
+        "descricao": "Projeto focado em marketplace de serviços criativos, utilizando TypeScript, Vue."
+      }
+    ],
+    "certificacoes": [
+      "Certified Ethical Hacker"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades Inteligentes",
+      "Inclusão Digital",
+      "Economia Criativa"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Heitor Lima",
+    "foto": "https://i.pravatar.cc/150?img=23",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "Heitor é arquiteto(a) de soluções com foco em soluções para desenvolvimento e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Flutter",
+      "TypeScript",
+      "Django"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Adaptabilidade",
+      "Proatividade",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FinEdge",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2022-04",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de desenvolvimento, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Cientista de Dados",
+        "inicio": "2012-01",
+        "fim": "2017-01",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Unicamp",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Educacional Imersivo",
+        "link": "https://portfolio.futurize.dev/heitor-23-1",
+        "descricao": "Projeto focado em portal educacional imersivo, utilizando Flutter, TypeScript."
+      },
+      {
+        "titulo": "Assistente Virtual para RH",
+        "link": "https://portfolio.futurize.dev/heitor-23-2",
+        "descricao": "Projeto focado em assistente virtual para rh, utilizando Flutter, TypeScript."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Solutions Architect",
+      "Scrum Master Certified",
+      "Google Cloud Professional Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Inclusão Digital",
+      "Educação",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Victor Gomes",
+    "foto": "https://i.pravatar.cc/150?img=24",
+    "cargo": "Engenheiro(a) de Machine Learning",
+    "resumo": "Victor é engenheiro(a) de machine learning com foco em soluções para design e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "JavaScript",
+      "Python",
+      "PyTorch",
+      "Azure"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FinEdge",
+        "cargo": "Engenheiro(a) de Machine Learning",
+        "inicio": "2019-02",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de design, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Analista de Segurança",
+        "inicio": "2011-07",
+        "fim": "2019-07",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UFSC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/victor-24-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando TensorFlow, JavaScript."
+      },
+      {
+        "titulo": "Ferramenta de OKR colaborativa",
+        "link": "https://portfolio.futurize.dev/victor-24-2",
+        "descricao": "Projeto focado em ferramenta de okr colaborativa, utilizando TensorFlow, JavaScript."
+      }
+    ],
+    "certificacoes": [
+      "Certified Ethical Hacker",
+      "TensorFlow Developer Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Fintech",
+      "Impacto Social",
+      "Metaverso"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Renato Ribeiro",
+    "foto": "https://i.pravatar.cc/150?img=25",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "Renato é arquiteto(a) de soluções com foco em soluções para design e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Vue",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Adaptabilidade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataPulse",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2020-03",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de design, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "FinEdge",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2014-08",
+        "fim": "2019-12",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em UX Strategy",
+        "instituicao": "UFRGS",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Conteúdo Interativo",
+        "link": "https://portfolio.futurize.dev/renato-25-1",
+        "descricao": "Projeto focado em hub de conteúdo interativo, utilizando Figma, Vue."
+      },
+      {
+        "titulo": "Sistema de Gestão de Energia",
+        "link": "https://portfolio.futurize.dev/renato-25-2",
+        "descricao": "Projeto focado em sistema de gestão de energia, utilizando Figma, Vue."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "GovTech",
+      "Fintech",
+      "Robótica",
+      "Impacto Social"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Yasmin Esteves",
+    "foto": "https://i.pravatar.cc/150?img=26",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Yasmin é desenvolvedor(a) front-end com foco em soluções para segurança e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "Next.js",
+      "AWS"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resiliência",
+      "Criatividade",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2018-08",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de segurança, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "GreenBits",
+        "cargo": "Product Manager",
+        "inicio": "2015-07",
+        "fim": "2018-01",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Produtos Digitais",
+        "instituicao": "UFBA",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Ferramenta de OKR colaborativa",
+        "link": "https://portfolio.futurize.dev/yasmin-26-1",
+        "descricao": "Projeto focado em ferramenta de okr colaborativa, utilizando MongoDB, Next.js."
+      },
+      {
+        "titulo": "Dashboard de Analytics em Tempo Real",
+        "link": "https://portfolio.futurize.dev/yasmin-26-2",
+        "descricao": "Projeto focado em dashboard de analytics em tempo real, utilizando MongoDB, Next.js."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Solutions Architect",
+      "Google Cloud Professional Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Fintech"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "João Klein",
+    "foto": "https://i.pravatar.cc/150?img=27",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "João é analista de marketing digital com foco em soluções para gestão de produtos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão de Produtos",
+    "habilidadesTecnicas": [
+      "Django",
+      "Adobe XD",
+      "Azure",
+      "SQL Server",
+      "Laravel",
+      "React"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Adaptabilidade",
+      "Criatividade",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaLabs",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2020-06",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de gestão de produtos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "FinEdge",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2015-09",
+        "fim": "2017-02",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Inteligência Artificial",
+        "instituicao": "UFBA",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Conteúdo Interativo",
+        "link": "https://portfolio.futurize.dev/joão-27-1",
+        "descricao": "Projeto focado em hub de conteúdo interativo, utilizando Django, Adobe XD."
+      }
+    ],
+    "certificacoes": [
+      "Certified Ethical Hacker",
+      "PMP"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Fintech",
+      "Robótica",
+      "Cidades Inteligentes",
+      "Inclusão Digital"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Mariana Watanabe",
+    "foto": "https://i.pravatar.cc/150?img=28",
+    "cargo": "Cientista de Dados",
+    "resumo": "Mariana é cientista de dados com foco em soluções para dados e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Brasília/DF",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Adobe XD",
+      "TensorFlow",
+      "Rust",
+      "React",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência",
+      "Visão estratégica",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "GreenBits",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de dados, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "SafeNet",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2014-07",
+        "fim": "2018-10",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Segurança da Informação",
+        "instituicao": "UFSC",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Voluntariado Tech",
+        "link": "https://portfolio.futurize.dev/mariana-28-1",
+        "descricao": "Projeto focado em plataforma de voluntariado tech, utilizando Adobe XD, TensorFlow."
+      },
+      {
+        "titulo": "Assistente Virtual para RH",
+        "link": "https://portfolio.futurize.dev/mariana-28-2",
+        "descricao": "Projeto focado em assistente virtual para rh, utilizando Adobe XD, TensorFlow."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Solutions Architect",
+      "OKR Professional",
+      "Google Cloud Professional Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "GovTech",
+      "Metaverso",
+      "Cidades Inteligentes",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Samuel Hernandez",
+    "foto": "https://i.pravatar.cc/150?img=29",
+    "cargo": "Especialista em DevOps",
+    "resumo": "Samuel é especialista em devops com foco em soluções para finanças e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Spring Boot",
+      "C#",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Liderança",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "EduPrime",
+        "cargo": "Especialista em DevOps",
+        "inicio": "2015-03",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de finanças, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "TechNova",
+        "cargo": "Analista de Segurança",
+        "inicio": "2013-01",
+        "fim": "2018-03",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/samuel-29-1",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando Spring Boot, C#."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Economia Criativa",
+      "Computação Quântica"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "João Esteves",
+    "foto": "https://i.pravatar.cc/150?img=30",
+    "cargo": "Cientista de Dados",
+    "resumo": "João é cientista de dados com foco em soluções para gestão de produtos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Gestão de Produtos",
+    "habilidadesTecnicas": [
+      "Go",
+      "Flutter",
+      "Python"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "GreenBits",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-04",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de gestão de produtos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2010-10",
+        "fim": "2018-01",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em UX Strategy",
+        "instituicao": "UFSC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Marketplace de Serviços Criativos",
+        "link": "https://portfolio.futurize.dev/joão-30-1",
+        "descricao": "Projeto focado em marketplace de serviços criativos, utilizando Go, Flutter."
+      },
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/joão-30-2",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando Go, Flutter."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Solutions Architect",
+      "IELTS C1"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Educação",
+      "Impacto Social"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Larissa Oliveira",
+    "foto": "https://i.pravatar.cc/150?img=31",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "Larissa é arquiteto(a) de soluções com foco em soluções para dados e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL Server",
+      "C#",
+      "TypeScript",
+      "CI/CD",
+      "Tableau"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Resiliência",
+      "Negociação",
+      "Criatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "EduPrime",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2021-08",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de dados, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "TechNova",
+        "cargo": "UX/UI Designer",
+        "inicio": "2013-04",
+        "fim": "2021-11",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFF",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/larissa-31-1",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando SQL Server, C#."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate",
+      "OKR Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Impacto Social",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Heitor Souza",
+    "foto": "https://i.pravatar.cc/150?img=32",
+    "cargo": "UX/UI Designer",
+    "resumo": "Heitor é ux/ui designer com foco em soluções para design e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Campinas/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL Server",
+      "NestJS",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Empatia",
+      "Adaptabilidade",
+      "Organização",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataPulse",
+        "cargo": "UX/UI Designer",
+        "inicio": "2021-06",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de design, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "NexuSoft",
+        "cargo": "UX/UI Designer",
+        "inicio": "2014-09",
+        "fim": "2018-09",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em UX Strategy",
+        "instituicao": "PUC-Rio",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/heitor-32-1",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando SQL Server, NestJS."
+      },
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/heitor-32-2",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando SQL Server, NestJS."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Solutions Architect",
+      "Certified Ethical Hacker"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Impacto Social",
+      "Sustentabilidade",
+      "Robótica",
+      "GovTech"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Patrícia Dias",
+    "foto": "https://i.pravatar.cc/150?img=33",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "Patrícia é arquiteto(a) de soluções com foco em soluções para educação e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "C#",
+      "NestJS",
+      "Django"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Visão estratégica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2014-12",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de educação, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2010-01",
+        "fim": "2021-10",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Ciência de Dados",
+        "instituicao": "UFF",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/patrícia-33-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando Kubernetes, C#."
+      }
+    ],
+    "certificacoes": [
+      "Azure Administrator Associate",
+      "IELTS C1",
+      "Google Cloud Professional Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Fintech",
+      "GovTech"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Samuel Barbosa",
+    "foto": "https://i.pravatar.cc/150?img=34",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Samuel é analista de marketing digital com foco em soluções para educação e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Vue",
+      "AWS",
+      "Kubernetes",
+      "Python"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Pensamento crítico",
+      "Negociação",
+      "Liderança",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechNova",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2015-07",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de educação, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "HealthConnect",
+        "cargo": "Product Manager",
+        "inicio": "2015-02",
+        "fim": "2017-07",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em UX Strategy",
+        "instituicao": "PUC-Rio",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Assistente Virtual para RH",
+        "link": "https://portfolio.futurize.dev/samuel-34-1",
+        "descricao": "Projeto focado em assistente virtual para rh, utilizando Vue, AWS."
+      },
+      {
+        "titulo": "Portal Educacional Imersivo",
+        "link": "https://portfolio.futurize.dev/samuel-34-2",
+        "descricao": "Projeto focado em portal educacional imersivo, utilizando Vue, AWS."
+      }
+    ],
+    "certificacoes": [
+      "IELTS C1",
+      "Scrum Master Certified",
+      "Azure Administrator Associate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Educação",
+      "Cidades Inteligentes",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Renato Zanetti",
+    "foto": "https://i.pravatar.cc/150?img=35",
+    "cargo": "Product Manager",
+    "resumo": "Renato é product manager com foco em soluções para desenvolvimento e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "MongoDB",
+      "SQL Server"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Organização",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "HealthConnect",
+        "cargo": "Product Manager",
+        "inicio": "2021-11",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de desenvolvimento, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "EduPrime",
+        "cargo": "Engenheiro(a) de Machine Learning",
+        "inicio": "2011-12",
+        "fim": "2020-12",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Ciência de Dados",
+        "instituicao": "UFRGS",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/renato-35-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando NoSQL, MongoDB."
+      },
+      {
+        "titulo": "Sistema de Gestão de Energia",
+        "link": "https://portfolio.futurize.dev/renato-35-2",
+        "descricao": "Projeto focado em sistema de gestão de energia, utilizando NoSQL, MongoDB."
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud Professional Data Engineer",
+      "IELTS C1"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Inclusão Digital",
+      "GovTech",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Mateus Freitas",
+    "foto": "https://i.pravatar.cc/150?img=36",
+    "cargo": "Cientista de Dados",
+    "resumo": "Mateus é cientista de dados com foco em soluções para dados e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "React Native",
+      "Vue",
+      "React",
+      "Tableau"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Proatividade",
+      "Gestão de tempo",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaLabs",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-03",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de dados, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "InovaLabs",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2011-08",
+        "fim": "2017-12",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em UX Strategy",
+        "instituicao": "UFBA",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Conteúdo Interativo",
+        "link": "https://portfolio.futurize.dev/mateus-36-1",
+        "descricao": "Projeto focado em hub de conteúdo interativo, utilizando React Native, Vue."
+      },
+      {
+        "titulo": "Portal Educacional Imersivo",
+        "link": "https://portfolio.futurize.dev/mateus-36-2",
+        "descricao": "Projeto focado em portal educacional imersivo, utilizando React Native, Vue."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate",
+      "IELTS C1"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Sustentabilidade",
+      "Impacto Social"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Olívia Lima",
+    "foto": "https://i.pravatar.cc/150?img=37",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "Olívia é arquiteto(a) de soluções com foco em soluções para finanças e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "React Native",
+      "Django",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Negociação",
+      "Organização",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "EduPrime",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2018-06",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de finanças, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "DataPulse",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2010-03",
+        "fim": "2021-10",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "USP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/olívia-37-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando React Native, Django."
+      }
+    ],
+    "certificacoes": [
+      "IELTS C1",
+      "Certified Kubernetes Administrator",
+      "OKR Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Impacto Social",
+      "Sustentabilidade",
+      "Inclusão Digital",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Rafaela Gomes",
+    "foto": "https://i.pravatar.cc/150?img=38",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Rafaela é analista de marketing digital com foco em soluções para recursos humanos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "TypeScript",
+      "FastAPI"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Criatividade",
+      "Liderança",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2016-04",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de recursos humanos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Engenheiro(a) de Machine Learning",
+        "inicio": "2012-02",
+        "fim": "2018-05",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão Ágil",
+        "instituicao": "PUC-Rio",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard de Analytics em Tempo Real",
+        "link": "https://portfolio.futurize.dev/rafaela-38-1",
+        "descricao": "Projeto focado em dashboard de analytics em tempo real, utilizando NoSQL, TypeScript."
+      },
+      {
+        "titulo": "Portal Educacional Imersivo",
+        "link": "https://portfolio.futurize.dev/rafaela-38-2",
+        "descricao": "Projeto focado em portal educacional imersivo, utilizando NoSQL, TypeScript."
+      }
+    ],
+    "certificacoes": [
+      "Azure Administrator Associate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão Digital",
+      "GovTech",
+      "Economia Criativa",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Eduarda Dias",
+    "foto": "https://i.pravatar.cc/150?img=39",
+    "cargo": "Desenvolvedor(a) Back-end",
+    "resumo": "Eduarda é desenvolvedor(a) back-end com foco em soluções para desenvolvimento e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "Python",
+      "TypeScript",
+      "Adobe XD",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Criatividade",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignSphere",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2016-02",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de desenvolvimento, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "FinEdge",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2011-10",
+        "fim": "2020-07",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "USP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Conteúdo Interativo",
+        "link": "https://portfolio.futurize.dev/eduarda-39-1",
+        "descricao": "Projeto focado em hub de conteúdo interativo, utilizando GraphQL, Python."
+      },
+      {
+        "titulo": "Marketplace de Serviços Criativos",
+        "link": "https://portfolio.futurize.dev/eduarda-39-2",
+        "descricao": "Projeto focado em marketplace de serviços criativos, utilizando GraphQL, Python."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Solutions Architect",
+      "Google Cloud Professional Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Educação",
+      "Metaverso"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "João Cardoso",
+    "foto": "https://i.pravatar.cc/150?img=40",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "João é arquiteto(a) de soluções com foco em soluções para finanças e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Brasília/DF",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Vue",
+      "GCP",
+      "Rust"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Criatividade",
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataPulse",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2023-07",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de finanças, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Cientista de Dados",
+        "inicio": "2012-09",
+        "fim": "2019-05",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC-Rio",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/joão-40-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando Vue, GCP."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master Certified",
+      "Google Cloud Professional Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Educação",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Zeca Teixeira",
+    "foto": "https://i.pravatar.cc/150?img=41",
+    "cargo": "Especialista em DevOps",
+    "resumo": "Zeca é especialista em devops com foco em soluções para desenvolvimento e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Spring Boot",
+      "TensorFlow",
+      "MongoDB",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Visão estratégica",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechNova",
+        "cargo": "Especialista em DevOps",
+        "inicio": "2015-07",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de desenvolvimento, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "GreenBits",
+        "cargo": "Especialista em Cloud",
+        "inicio": "2013-08",
+        "fim": "2019-07",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Produtos Digitais",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/zeca-41-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando Node.js, Spring Boot."
+      },
+      {
+        "titulo": "Solução Financeira Gamificada",
+        "link": "https://portfolio.futurize.dev/zeca-41-2",
+        "descricao": "Projeto focado em solução financeira gamificada, utilizando Node.js, Spring Boot."
+      }
+    ],
+    "certificacoes": [
+      "Design Sprint Master",
+      "AWS Certified Solutions Architect",
+      "Scrum Master Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Impacto Social",
+      "Sustentabilidade",
+      "Metaverso",
+      "Fintech"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Gabriela Ibrahim",
+    "foto": "https://i.pravatar.cc/150?img=42",
+    "cargo": "Desenvolvedor(a) Back-end",
+    "resumo": "Gabriela é desenvolvedor(a) back-end com foco em soluções para gestão de produtos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Gestão de Produtos",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Angular",
+      "Laravel",
+      "GraphQL",
+      "Vue",
+      "React Native"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Organização",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechNova",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2015-02",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de gestão de produtos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "TechNova",
+        "cargo": "Product Manager",
+        "inicio": "2010-03",
+        "fim": "2019-10",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Produtos Digitais",
+        "instituicao": "UFRGS",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard de Analytics em Tempo Real",
+        "link": "https://portfolio.futurize.dev/gabriela-42-1",
+        "descricao": "Projeto focado em dashboard de analytics em tempo real, utilizando Kubernetes, Angular."
+      }
+    ],
+    "certificacoes": [
+      "Azure Administrator Associate",
+      "TensorFlow Developer Certificate",
+      "Google Cloud Professional Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Metaverso",
+      "Economia Criativa"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Gabriela Ribeiro",
+    "foto": "https://i.pravatar.cc/150?img=43",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "Gabriela é arquiteto(a) de soluções com foco em soluções para finanças e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "PyTorch",
+      "R",
+      "Angular"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Organização",
+      "Resiliência",
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2017-09",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de finanças, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "NexuSoft",
+        "cargo": "Especialista em DevOps",
+        "inicio": "2014-10",
+        "fim": "2021-04",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFBA",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Solução Financeira Gamificada",
+        "link": "https://portfolio.futurize.dev/gabriela-43-1",
+        "descricao": "Projeto focado em solução financeira gamificada, utilizando TypeScript, PyTorch."
+      },
+      {
+        "titulo": "Portal Educacional Imersivo",
+        "link": "https://portfolio.futurize.dev/gabriela-43-2",
+        "descricao": "Projeto focado em portal educacional imersivo, utilizando TypeScript, PyTorch."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate",
+      "Azure Administrator Associate",
+      "IELTS C1"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Metaverso",
+      "Impacto Social",
+      "GovTech"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Patrícia Young",
+    "foto": "https://i.pravatar.cc/150?img=44",
+    "cargo": "Scrum Master",
+    "resumo": "Patrícia é scrum master com foco em soluções para marketing e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Azure",
+      "SQL Server",
+      "Docker",
+      "Tableau",
+      "NoSQL",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Criatividade",
+      "Adaptabilidade",
+      "Liderança",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FutureCorp",
+        "cargo": "Scrum Master",
+        "inicio": "2016-09",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de marketing, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "FinEdge",
+        "cargo": "UX/UI Designer",
+        "inicio": "2012-07",
+        "fim": "2018-08",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFPE",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Conteúdo Interativo",
+        "link": "https://portfolio.futurize.dev/patrícia-44-1",
+        "descricao": "Projeto focado em hub de conteúdo interativo, utilizando Azure, SQL Server."
+      },
+      {
+        "titulo": "Ferramenta de OKR colaborativa",
+        "link": "https://portfolio.futurize.dev/patrícia-44-2",
+        "descricao": "Projeto focado em ferramenta de okr colaborativa, utilizando Azure, SQL Server."
+      }
+    ],
+    "certificacoes": [
+      "Design Sprint Master",
+      "Certified Ethical Hacker"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Computação Quântica",
+      "Metaverso"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Karina Moraes",
+    "foto": "https://i.pravatar.cc/150?img=45",
+    "cargo": "Engenheiro(a) de Machine Learning",
+    "resumo": "Karina é engenheiro(a) de machine learning com foco em soluções para segurança e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Goiânia/GO",
+    "area": "Segurança",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "TypeScript",
+      "React",
+      "GCP",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Proatividade",
+      "Comunicação",
+      "Negociação",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SafeNet",
+        "cargo": "Engenheiro(a) de Machine Learning",
+        "inicio": "2018-11",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de segurança, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "SafeNet",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2012-07",
+        "fim": "2019-11",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Ciência de Dados",
+        "instituicao": "PUC-Rio",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/karina-45-1",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando Next.js, TypeScript."
+      },
+      {
+        "titulo": "Solução Financeira Gamificada",
+        "link": "https://portfolio.futurize.dev/karina-45-2",
+        "descricao": "Projeto focado em solução financeira gamificada, utilizando Next.js, TypeScript."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Educação"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Isabela Zanetti",
+    "foto": "https://i.pravatar.cc/150?img=46",
+    "cargo": "Scrum Master",
+    "resumo": "Isabela é scrum master com foco em soluções para gestão de produtos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Gestão de Produtos",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Angular",
+      "Java"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechNova",
+        "cargo": "Scrum Master",
+        "inicio": "2021-05",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de gestão de produtos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Scrum Master",
+        "inicio": "2014-07",
+        "fim": "2021-08",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC-Rio",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/isabela-46-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando NoSQL, Angular."
+      },
+      {
+        "titulo": "Dashboard de Analytics em Tempo Real",
+        "link": "https://portfolio.futurize.dev/isabela-46-2",
+        "descricao": "Projeto focado em dashboard de analytics em tempo real, utilizando NoSQL, Angular."
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud Professional Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Fintech",
+      "Robótica",
+      "Computação Quântica"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Heitor Hernandez",
+    "foto": "https://i.pravatar.cc/150?img=47",
+    "cargo": "Product Manager",
+    "resumo": "Heitor é product manager com foco em soluções para recursos humanos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Docker",
+      "TypeScript",
+      "CI/CD",
+      "Node.js",
+      "Azure"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Negociação",
+      "Comunicação",
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignSphere",
+        "cargo": "Product Manager",
+        "inicio": "2016-07",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de recursos humanos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "DataPulse",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2014-02",
+        "fim": "2021-09",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em UX Strategy",
+        "instituicao": "Insper",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Gestão de Energia",
+        "link": "https://portfolio.futurize.dev/heitor-47-1",
+        "descricao": "Projeto focado em sistema de gestão de energia, utilizando Power BI, Docker."
+      },
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/heitor-47-2",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando Power BI, Docker."
+      }
+    ],
+    "certificacoes": [
+      "Design Sprint Master",
+      "Azure Administrator Associate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Karina Queiroz",
+    "foto": "https://i.pravatar.cc/150?img=48",
+    "cargo": "UX/UI Designer",
+    "resumo": "Karina é ux/ui designer com foco em soluções para gestão de produtos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Gestão de Produtos",
+    "habilidadesTecnicas": [
+      "Spring Boot",
+      "Rust",
+      "Angular",
+      "Vue"
+    ],
+    "softSkills": [
+      "Organização",
+      "Negociação",
+      "Proatividade",
+      "Visão estratégica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FinEdge",
+        "cargo": "UX/UI Designer",
+        "inicio": "2019-10",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de gestão de produtos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "InovaLabs",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2015-02",
+        "fim": "2019-04",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em UX Strategy",
+        "instituicao": "Unicamp",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Voluntariado Tech",
+        "link": "https://portfolio.futurize.dev/karina-48-1",
+        "descricao": "Projeto focado em plataforma de voluntariado tech, utilizando Spring Boot, Rust."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Solutions Architect",
+      "Google Cloud Professional Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Rafaela Vasconcelos",
+    "foto": "https://i.pravatar.cc/150?img=49",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Rafaela é analista de marketing digital com foco em soluções para recursos humanos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "React",
+      "React Native",
+      "MongoDB",
+      "Laravel",
+      "SQL Server"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "HealthConnect",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2016-07",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de recursos humanos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "GreenBits",
+        "cargo": "Product Manager",
+        "inicio": "2014-12",
+        "fim": "2018-08",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "Faculdade Impacta",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Gestão de Energia",
+        "link": "https://portfolio.futurize.dev/rafaela-49-1",
+        "descricao": "Projeto focado em sistema de gestão de energia, utilizando React, React Native."
+      }
+    ],
+    "certificacoes": [
+      "Certified Kubernetes Administrator"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Economia Criativa",
+      "Cidades Inteligentes"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Bruno Dias",
+    "foto": "https://i.pravatar.cc/150?img=50",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Bruno é engenheiro(a) de software com foco em soluções para desenvolvimento e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Brasília/DF",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "SQL",
+      "GraphQL",
+      "Azure",
+      "C#",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Organização",
+      "Negociação",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataPulse",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2023-03",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de desenvolvimento, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "TechNova",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2015-01",
+        "fim": "2019-11",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em UX Strategy",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/bruno-50-1",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando SQL, GraphQL."
+      },
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/bruno-50-2",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando SQL, GraphQL."
+      }
+    ],
+    "certificacoes": [
+      "Certified Kubernetes Administrator",
+      "PMP",
+      "IELTS C1"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Economia Criativa",
+      "Cidades Inteligentes"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Victor Vasconcelos",
+    "foto": "https://i.pravatar.cc/150?img=51",
+    "cargo": "Product Manager",
+    "resumo": "Victor é product manager com foco em soluções para saúde digital e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Saúde Digital",
+    "habilidadesTecnicas": [
+      "Go",
+      ".NET",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Product Manager",
+        "inicio": "2016-01",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de saúde digital, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "DataPulse",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2010-08",
+        "fim": "2020-01",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Produtos Digitais",
+        "instituicao": "Faculdade Impacta",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Conteúdo Interativo",
+        "link": "https://portfolio.futurize.dev/victor-51-1",
+        "descricao": "Projeto focado em hub de conteúdo interativo, utilizando Go, .NET."
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud Professional Data Engineer",
+      "Scrum Master Certified",
+      "OKR Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Italiano",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "GovTech"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Nicolas Barbosa",
+    "foto": "https://i.pravatar.cc/150?img=52",
+    "cargo": "Especialista em Cloud",
+    "resumo": "Nicolas é especialista em cloud com foco em soluções para dados e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "PostgreSQL",
+      "React Native",
+      "NestJS",
+      "C#",
+      "Vue"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Criatividade",
+      "Resiliência",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "GreenBits",
+        "cargo": "Especialista em Cloud",
+        "inicio": "2023-09",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de dados, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "HealthConnect",
+        "cargo": "UX/UI Designer",
+        "inicio": "2012-08",
+        "fim": "2018-04",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC-Rio",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Educacional Imersivo",
+        "link": "https://portfolio.futurize.dev/nicolas-52-1",
+        "descricao": "Projeto focado em portal educacional imersivo, utilizando PostgreSQL, React Native."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Metaverso",
+      "Sustentabilidade",
+      "Impacto Social"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Bruno Jacinto",
+    "foto": "https://i.pravatar.cc/150?img=53",
+    "cargo": "Scrum Master",
+    "resumo": "Bruno é scrum master com foco em soluções para recursos humanos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": [
+      "C#",
+      "AWS",
+      "SQL",
+      "Spring Boot",
+      "React",
+      "Python"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Organização",
+      "Comunicação",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechNova",
+        "cargo": "Scrum Master",
+        "inicio": "2014-12",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de recursos humanos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "EduPrime",
+        "cargo": "Especialista em Cloud",
+        "inicio": "2013-05",
+        "fim": "2021-09",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Inteligência Artificial",
+        "instituicao": "Insper",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Conteúdo Interativo",
+        "link": "https://portfolio.futurize.dev/bruno-53-1",
+        "descricao": "Projeto focado em hub de conteúdo interativo, utilizando C#, AWS."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Solutions Architect",
+      "Google Cloud Professional Data Engineer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Economia Criativa",
+      "Saúde Digital",
+      "Computação Quântica",
+      "Educação"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Isabela Teixeira",
+    "foto": "https://i.pravatar.cc/150?img=54",
+    "cargo": "Cientista de Dados",
+    "resumo": "Isabela é cientista de dados com foco em soluções para gestão de produtos e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Campinas/SP",
+    "area": "Gestão de Produtos",
+    "habilidadesTecnicas": [
+      "R",
+      ".NET",
+      "GraphQL"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Resiliência",
+      "Pensamento crítico",
+      "Liderança",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FutureCorp",
+        "cargo": "Cientista de Dados",
+        "inicio": "2016-09",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de gestão de produtos, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "FinEdge",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2014-08",
+        "fim": "2017-11",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFBA",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Solução Financeira Gamificada",
+        "link": "https://portfolio.futurize.dev/isabela-54-1",
+        "descricao": "Projeto focado em solução financeira gamificada, utilizando R, .NET."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Computação Quântica"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Mariana Moraes",
+    "foto": "https://i.pravatar.cc/150?img=55",
+    "cargo": "Especialista em Cloud",
+    "resumo": "Mariana é especialista em cloud com foco em soluções para design e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Django",
+      "Docker"
+    ],
+    "softSkills": [
+      "Visão estratégica",
+      "Liderança",
+      "Adaptabilidade",
+      "Negociação",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "GreenBits",
+        "cargo": "Especialista em Cloud",
+        "inicio": "2014-09",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de design, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "SafeNet",
+        "cargo": "Analista de Segurança",
+        "inicio": "2012-01",
+        "fim": "2021-01",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Segurança da Informação",
+        "instituicao": "Unicamp",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Educacional Imersivo",
+        "link": "https://portfolio.futurize.dev/mariana-55-1",
+        "descricao": "Projeto focado em portal educacional imersivo, utilizando NoSQL, Django."
+      }
+    ],
+    "certificacoes": [
+      "Certified Ethical Hacker",
+      "TensorFlow Developer Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade",
+      "Impacto Social",
+      "GovTech"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Talita Cardoso",
+    "foto": "https://i.pravatar.cc/150?img=56",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Talita é analista de marketing digital com foco em soluções para dados e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Spring Boot",
+      "SQL",
+      "MongoDB",
+      "PostgreSQL",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechNova",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2018-10",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de dados, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "FutureCorp",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2013-12",
+        "fim": "2018-05",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Insper",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Conteúdo Interativo",
+        "link": "https://portfolio.futurize.dev/talita-56-1",
+        "descricao": "Projeto focado em hub de conteúdo interativo, utilizando Spring Boot, SQL."
+      },
+      {
+        "titulo": "Marketplace de Serviços Criativos",
+        "link": "https://portfolio.futurize.dev/talita-56-2",
+        "descricao": "Projeto focado em marketplace de serviços criativos, utilizando Spring Boot, SQL."
+      }
+    ],
+    "certificacoes": [
+      "Azure Administrator Associate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Computação Quântica",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Larissa Ibrahim",
+    "foto": "https://i.pravatar.cc/150?img=57",
+    "cargo": "Analista de Segurança",
+    "resumo": "Larissa é analista de segurança com foco em soluções para finanças e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "AWS",
+      "R",
+      "Figma",
+      "C#",
+      "PostgreSQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Visão estratégica",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "EduPrime",
+        "cargo": "Analista de Segurança",
+        "inicio": "2015-07",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de finanças, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "SafeNet",
+        "cargo": "Analista de Segurança",
+        "inicio": "2012-09",
+        "fim": "2020-03",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Marketplace de Serviços Criativos",
+        "link": "https://portfolio.futurize.dev/larissa-57-1",
+        "descricao": "Projeto focado em marketplace de serviços criativos, utilizando AWS, R."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate",
+      "OKR Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Impacto Social",
+      "Economia Criativa",
+      "GovTech"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Bruno Moraes",
+    "foto": "https://i.pravatar.cc/150?img=58",
+    "cargo": "Especialista em Cloud",
+    "resumo": "Bruno é especialista em cloud com foco em soluções para desenvolvimento e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Go",
+      "JavaScript",
+      "Flutter",
+      "Laravel"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FutureCorp",
+        "cargo": "Especialista em Cloud",
+        "inicio": "2020-03",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de desenvolvimento, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "SafeNet",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2010-08",
+        "fim": "2021-12",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "Insper",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Saúde Preventiva",
+        "link": "https://portfolio.futurize.dev/bruno-58-1",
+        "descricao": "Projeto focado em aplicativo saúde preventiva, utilizando Go, JavaScript."
+      }
+    ],
+    "certificacoes": [
+      "OKR Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades Inteligentes",
+      "Economia Criativa"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Zeca Vasconcelos",
+    "foto": "https://i.pravatar.cc/150?img=59",
+    "cargo": "Engenheiro(a) de Machine Learning",
+    "resumo": "Zeca é engenheiro(a) de machine learning com foco em soluções para educação e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "PyTorch",
+      "Django",
+      "SQL Server",
+      "Next.js",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resiliência",
+      "Adaptabilidade",
+      "Negociação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "HealthConnect",
+        "cargo": "Engenheiro(a) de Machine Learning",
+        "inicio": "2017-05",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de educação, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Especialista em Cloud",
+        "inicio": "2013-12",
+        "fim": "2019-05",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Segurança da Informação",
+        "instituicao": "Unicamp",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Educacional Imersivo",
+        "link": "https://portfolio.futurize.dev/zeca-59-1",
+        "descricao": "Projeto focado em portal educacional imersivo, utilizando PyTorch, Django."
+      },
+      {
+        "titulo": "Plataforma de Mentoria Digital",
+        "link": "https://portfolio.futurize.dev/zeca-59-2",
+        "descricao": "Projeto focado em plataforma de mentoria digital, utilizando PyTorch, Django."
+      }
+    ],
+    "certificacoes": [
+      "IELTS C1"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Ana Nogueira",
+    "foto": "https://i.pravatar.cc/150?img=60",
+    "cargo": "Arquiteto(a) de Soluções",
+    "resumo": "Ana é arquiteto(a) de soluções com foco em soluções para marketing e atuação em iniciativas do futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Azure",
+      "Spring Boot",
+      "Laravel",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "GreenBits",
+        "cargo": "Arquiteto(a) de Soluções",
+        "inicio": "2017-02",
+        "fim": "Atual",
+        "descricao": "Atuação em iniciativas estratégicas na área de marketing, liderando squads multidisciplinares e promovendo cultura de inovação."
+      },
+      {
+        "empresa": "SafeNet",
+        "cargo": "Engenheiro(a) de Machine Learning",
+        "inicio": "2014-09",
+        "fim": "2017-07",
+        "descricao": "Contribuição na transformação digital de processos, com foco em entrega contínua de valor e uso de métricas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFRGS",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Assistente Virtual para RH",
+        "link": "https://portfolio.futurize.dev/ana-60-1",
+        "descricao": "Projeto focado em assistente virtual para rh, utilizando Azure, Spring Boot."
+      },
+      {
+        "titulo": "Portal Educacional Imersivo",
+        "link": "https://portfolio.futurize.dev/ana-60-2",
+        "descricao": "Projeto focado em portal educacional imersivo, utilizando Azure, Spring Boot."
+      }
+    ],
+    "certificacoes": [
+      "Certified Kubernetes Administrator",
+      "TensorFlow Developer Certificate",
+      "AWS Certified Solutions Architect"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Cidades Inteligentes",
+      "Metaverso"
+    ]
+  }
+]
