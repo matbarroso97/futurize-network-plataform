@@ -2,6 +2,8 @@
 
 Rede profissional colaborativa que conecta talentos do futuro do trabalho. O projeto foi desenvolvido como parte da Global Solution (2º semestre/2025) utilizando **React**, **Vite** e **Tailwind CSS**.
 
+Deploy na Vercel: https://futurize-network-plataform.vercel.app/
+
 ## ✨ Visão Geral
 
 - Listagem de 60 perfis fictícios com nome, foto, cargo e principais habilidades.
